@@ -15,7 +15,7 @@ body {
 }
 
 body:has(.box[data-color="clr1"]:hover) {
-    background: #243327;
+    background: #1b3b17;
 }
 
 body:has(.box[data-color="clr2"]:hover) {

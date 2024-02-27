@@ -87,6 +87,7 @@ body:has(.box[data-color="clr4"]:hover) {
     align-items: center;
     overflow: hidden;
     transition: 0.5s;
+    -webkit-backdrop-filter: blur(15px);
 }
 
 .container .box .glass::before {
